@@ -1,0 +1,6 @@
+<aspectj>
+    <aspects>
+        <!-- declare an existing aspect to the weaver -->
+        <aspect name="org.devtoolbox.logging.aspect.LoggingAspect"/>
+    </aspects>
+</aspectj>
